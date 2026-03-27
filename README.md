@@ -9,27 +9,26 @@
 - 🌱 Currently transitioning into the world of **Data Analysis**  
 - 📊 Skilled in **Excel** ,**Power BI** and **MySQL**, with hands-on data analysis experience  
 - 🐍 Actively learning **Python** for data manipulation, visualization, and predictive modeling  
-- 🌍 Passionate about applying **data-driven solutions** to tackle environmental and climate challenges  
+- 🌍 Passionate about applying **data-driven solutions** to tackle business problems, environmental and climate challenges  
 
 ---
 
 ## 🛠️ Skills & Tools  
 - **Data Analysis:** Excel (Pivot Tables, Dashboards, VBA, Power Pivot), MySQL, Power BI(Power Querry, DAX, Modeling, Reporting) 
 - **Programming:** Python (in progress 🚀)  
-- **Research & Environment:** Climate data analysis, Environmental impact studies  
 
 ---
 
 ## 📚 Currently Learning  
 - Python for Data Science (pandas, NumPy, matplotlib, scikit-learn)  
 - Data cleaning, transformation, and visualization  
-- Predictive modeling for environmental and climate datasets  
+- Predictive modeling
 
 ---
 
 ## 🎯 Goals  
 - Build strong foundations in **Python & Machine Learning**  
-- Work on projects combining **environmental data** and **data science techniques**  
+- Work on projects combining **Data Analysis techniques** with **Decision making**
 - Share learning journey and projects here on GitHub  
 
 ---
