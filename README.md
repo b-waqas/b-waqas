@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bazgha Waqas  
 
-🌍 **Environmental Scientist | Data Analyst**  
+🌍 **Environmental Specialist | Data Analyst**  
 
 ---
 
